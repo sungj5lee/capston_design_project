@@ -5,7 +5,7 @@ contains a Blink class used for blinking an LED
 ## Class Constructor
 
 * void Blink(int negpin, int pospin)<br>
-gives the Blink class the negitive and positive pin numbers of the LED
+gives the Blink class the negitive and positive pin numbers of the LED<br>
 will reset both pin states to an off state
 
 ## Function List
